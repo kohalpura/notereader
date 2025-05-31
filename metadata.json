@@ -1,0 +1,6 @@
+{
+  "name": "Nepali Kanuun",
+  "description": "A web application to read and manage legal notes and articles, with specific features for Nepali content. Provides admin/reader roles, note management, category organization, search, dark/light mode, and text size adjustment. Data is stored locally.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

@@ -1,0 +1,24 @@
+
+{
+  "name": "Nepali Kanuun",
+  "short_name": "Kanuun",
+  "description": "An offline-capable web application to read and manage legal notes and articles, with specific features for Nepali content.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#dddddd",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://img.freepik.com/premium-vector/law-attorney-logo-design_80251441-161.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://img.freepik.com/premium-vector/law-attorney-logo-design_80251441-161.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
